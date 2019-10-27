@@ -9,10 +9,11 @@ const Header = () => {
             <div className="ml-auto mt-6 md:text-right">
                 <p>Email : <a
                     href="mailto:guntoro.gyk@gmail.com"
-                    className="hover:text-blue-500 text-blue-700">
+                    className="hover:text-blue-500 text-blue-500">
                     guntoro.gyk@gmail.com</a>
                 </p>
-                <p>Mobile: (+62) 85 713 470 777</p>
+                <p>Mobile: </p>
+                <p>(+62) 85 713 470 777</p>
             </div>
         </div>
     )
