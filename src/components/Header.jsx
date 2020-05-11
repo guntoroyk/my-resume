@@ -1,22 +1,26 @@
-import React from 'react'
+import React from 'react';
 
 const Header = () => {
-    return (
-        <div className="md:flex mb-8">
-            <div>
-                <h1 className="font-bold md:text-6xl text-3xl">Guntoro Yudhy Kusuma</h1>
-            </div>
-            <div className="ml-auto mt-6 md:text-right">
-                <p>Email : <a
-                    href="mailto:guntoro.gyk@gmail.com"
-                    className="hover:text-blue-500 text-blue-500">
-                    guntoro.gyk@gmail.com</a>
-                </p>
-                <p>Mobile: </p>
-                <p>(+62) 85 713 470 777</p>
-            </div>
-        </div>
-    )
-}
+  return (
+    <div className="md:flex mb-8">
+      <div>
+        <h2 className="font-bold md:text-6xl text-1xl">Guntoro Yudhy</h2>
+      </div>
+      <div className="ml-auto mt-6 md:text-right">
+        <p>
+          Email :{' '}
+          <a
+            href="mailto:guntoro.gyk@gmail.com"
+            className="hover:text-blue-500 text-blue-500"
+          >
+            guntoro.gyk@gmail.com
+          </a>
+        </p>
+        <p>Mobile: </p>
+        <p>(+62) 85 713 470 777</p>
+      </div>
+    </div>
+  );
+};
 
-export default Header
+export default Header;
