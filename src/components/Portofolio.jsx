@@ -65,7 +65,7 @@ const Portofolio = () => {
     },
     {
       image: restoque,
-      url: 'http://restoque.guntoroyk.site/',
+      url: 'https://restoque.guntoroyk.site/',
       title: 'RestoQue',
       desc:
         'Simple web app built with React JS, Redux, and using data from Zomato API.',
@@ -96,7 +96,7 @@ const Portofolio = () => {
 
     {
       image: stackoverflow,
-      url: 'http://toooverflow.guntoroyk.site/',
+      url: 'https://toooverflow.guntoroyk.site/',
       title: 'TooOverflow',
       desc:
         'A mini clone of Stack Overflow that allow you to create questions and give answer to other question. Built with Vue JS, Vuex, Express Js, and Mongoose.',
@@ -110,13 +110,13 @@ const Portofolio = () => {
     },
     {
       image: miniwp,
-      url: 'http://mindlee.guntoroyk.site/',
+      url: 'https://mindlee.guntoroyk.site/',
       title: 'Mini Wordpress',
       desc: 'A mini CMS built with Vue JS, Vuex, Express JS, and Mongoose.',
     },
     {
       image: grabah,
-      url: 'http://grabah.guntoroyk.site/',
+      url: 'https://grabah.guntoroyk.site/',
       title: 'Grabah Store',
       desc:
         'An e-commerce built with Vue JS, Vuex, Express JS, and Mongoose. The images on this app was uploaded to Google Cloud Storage.',
