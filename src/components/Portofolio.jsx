@@ -128,9 +128,9 @@ const Portofolio = () => {
       <div className="lg:flex">
         {line3.map((porto, i) => (
           <div className="lg:w-1/5 px-2 py-2 lg:py-0" key={i}>
-            <a href={porto.url} target="_blank">
+            <a href={porto.url} target="_blank" rel="noopener noreferrer">
               <div className="h-24 w-full rounded-lg object-cover shadow">
-                <img src={porto.image} className="h-full w-full"></img>
+                <img src={porto.image} className="h-full w-full" alt=""></img>
               </div>
               <p className="text-xs font-semibold mt-2">{porto.title}</p>
             </a>
@@ -141,9 +141,9 @@ const Portofolio = () => {
       <div className="lg:flex">
         {line2.map((porto, i) => (
           <div className="lg:w-1/5 px-2 py-2 lg:py-0" key={i}>
-            <a href={porto.url} target="_blank">
+            <a href={porto.url} target="_blank" rel="noopener noreferrer">
               <div className="h-24 w-full rounded-lg object-cover shadow">
-                <img src={porto.image} className="h-full w-full"></img>
+                <img src={porto.image} className="h-full w-full" alt=""></img>
               </div>
               <p className="text-xs font-semibold mt-2">{porto.title}</p>
             </a>
@@ -154,9 +154,9 @@ const Portofolio = () => {
       <div className="lg:flex mt-6">
         {line1.map((porto, i) => (
           <div className="lg:w-1/5 px-2 py-2 lg:py-0" key={i}>
-            <a href={porto.url} target="_blank">
+            <a href={porto.url} target="_blank" rel="noopener noreferrer">
               <div className="h-24 w-full rounded-lg object-cover shadow">
-                <img src={porto.image} className="h-full w-full"></img>
+                <img src={porto.image} className="h-full w-full" alt=""></img>
               </div>
               <p className="text-xs font-semibold mt-2">{porto.title}</p>
             </a>

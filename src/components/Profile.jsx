@@ -23,6 +23,7 @@ const Profile = () => {
                         <a
                             href="https://www.linkedin.com/in/guntoroyk"
                             target="_blank"
+                            rel="noopener noreferrer"
                             class="hover:text-blue-500 text-blue-700">
                             https://www.linkedin.com/in/guntoroyk</a>
                     </p>
@@ -33,6 +34,7 @@ const Profile = () => {
                         <a
                             href="https://www.github.com/guntoroyk"
                             target="_blank"
+                            rel="noopener noreferrer"
                             class="hover:text-blue-500 text-blue-700">
                             https://www.github.com/guntoroyk</a>
                     </p>

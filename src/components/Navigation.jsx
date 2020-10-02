@@ -1,7 +1,7 @@
 import React from 'react';
 import { Tabs, Tab } from 'react-bootstrap';
 
-import Profile from './Profile';
+// import Profile from './Profile';
 import Education from './Education';
 import Experience from './Experience';
 import Skills from './ProgrammingSkills';
