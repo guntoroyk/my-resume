@@ -52,7 +52,7 @@ const Portofolio = () => {
   const line2 = [
     {
       image: yogassistant,
-      url: 'https://yogasisstant.site/',
+      url: 'https://youtu.be/4sP2qUf_zXg',
       title: 'Yoga Assisstant | Final Project Hacktiv8',
       desc: `A virtual friend who guide you to do self paced Yoga at home. This apps built with ML5, a friendly machine learning for the web. Also using some cut-edge technologies such Express, Redis, Mongoose, Firebase Auth, & AWS on backend stack. And React JS, Redux, & React Router on frontend stack.`,
     },
@@ -65,7 +65,7 @@ const Portofolio = () => {
     },
     {
       image: restoque,
-      url: 'https://restoque.guntoroyk.site/',
+      url: 'https://restoque.guntoroyk.com/',
       title: 'RestoQue',
       desc:
         'Simple web app built with React JS, Redux, and using data from Zomato API.',
@@ -96,7 +96,7 @@ const Portofolio = () => {
 
     {
       image: stackoverflow,
-      url: 'https://toooverflow.guntoroyk.site/',
+      url: 'https://toooverflow.guntoroyk.com/',
       title: 'TooOverflow',
       desc:
         'A mini clone of Stack Overflow that allow you to create questions and give answer to other question. Built with Vue JS, Vuex, Express Js, and Mongoose.',
@@ -110,13 +110,13 @@ const Portofolio = () => {
     },
     {
       image: miniwp,
-      url: 'https://mindlee.guntoroyk.site/',
+      url: 'https://mindlee.guntoroyk.com/',
       title: 'Mini Wordpress',
       desc: 'A mini CMS built with Vue JS, Vuex, Express JS, and Mongoose.',
     },
     {
       image: grabah,
-      url: 'https://grabah.guntoroyk.site/',
+      url: 'https://grabah.guntoroyk.com/',
       title: 'Grabah Store',
       desc:
         'An e-commerce built with Vue JS, Vuex, Express JS, and Mongoose. The images on this app was uploaded to Google Cloud Storage.',
