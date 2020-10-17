@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div className="md:flex mb-8">
       <div>
-        <h2 className="font-bold md:text-6xl text-1xl">Guntoro Yudhy</h2>
+        <h2 className="font-bold md:text-5xl text-1xl">Guntoro Yudhy Kusuma</h2>
       </div>
       <div className="ml-auto mt-6 md:text-right">
         <p>

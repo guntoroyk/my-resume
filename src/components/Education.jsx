@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const Education = () => {
   return (
@@ -22,10 +22,10 @@ const Education = () => {
           <h2 class="italic text-base">
             Bachelor of Applied Science, Internet Engineering
           </h2>
-          <p class="ml-auto text-base">2018 - present</p>
+          <p class="ml-auto text-base">2018 - now</p>
         </div>
         <h2 class="italic text-base flex items-start">
-          On going (4<span className="text-xs">th</span>-term of 8 term)
+          On going (5<span className="text-xs">th</span>-term of 8 term)
         </h2>
       </div>
       <div class="mt-10">

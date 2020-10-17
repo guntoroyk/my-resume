@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const Skills = () => {
   return (
@@ -6,8 +6,8 @@ const Skills = () => {
       <div>
         <span class="font-bold text-lg">Backend Stack</span>
         <span>
-          : NodeJS, ExpressJS, Fastify, PostgreSql, MySQL, Sequelize, MongoDB,
-          Mongoose, GraphQL with Apollo Server.
+          : NodeJS, ExpressJS, Fastify, PostgreSQL, MySQL, Sequelize, MongoDB,
+          Mongoose, GraphQL, Apollo Server.
         </span>
       </div>
       <div>
@@ -27,6 +27,10 @@ const Skills = () => {
       <div>
         <span class="font-bold text-lg">Testing </span>
         <span>: Mocha, Chai, and Jest. </span>
+      </div>
+      <div>
+        <span class="font-bold text-lg">Other </span>
+        <span>: WordPress. </span>
       </div>
     </div>
   );
