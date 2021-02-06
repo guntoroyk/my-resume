@@ -24,9 +24,7 @@ const Education = () => {
           </h2>
           <p class="ml-auto text-base">2018 - now</p>
         </div>
-        <h2 class="italic text-base flex items-start">
-          On going (5<span className="text-xs">th</span>-term of 8 term)
-        </h2>
+        <h2 class="italic text-base flex items-start">On going</h2>
       </div>
       <div class="mt-10">
         <div class="md:flex">

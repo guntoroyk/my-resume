@@ -17,10 +17,17 @@ import gret_web from "../images/gret-web.png";
 import gret_desktop from "../images/gret-desktop.png";
 import basis from "../images/basis.png";
 import sahabatkebaikan from "../images/sahabatkebaikan.png";
+import new_sahabatkebaikan from "../images/new-sahabatkebaikan.png";
 import pln_avatar from "../images/pln_avatar.jpg";
 
 const Portofolio = () => {
   const portfolios = [
+    {
+      image: new_sahabatkebaikan,
+      url: "https://baru.sahabatkebaikan.org/",
+      title: "New Sahabatkebaikan.org",
+      desc: `This is the new version of the SahabatKebaikan.org that built with new style and using more cut-edge technologies. The technologies used on this web app is Nextjs (React for SSR), Nodejs with Express Framework, and Material UI for UI component.`,
+    },
     {
       image: sahabatkebaikan,
       url: "https://sahabatkebaikan.org/",
