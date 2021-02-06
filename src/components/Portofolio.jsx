@@ -60,7 +60,7 @@ const Portofolio = () => {
     },
     {
       image: revolto,
-      url: "https://beta.revolto.id/",
+      url: "https://revolto.id/",
       title: "Revolto",
       desc: `Revolto is a marketplace that provides parts for customizing motorcycle. It has a tagline "The World's Largest Fit Bike Parts". Build with NodeJS, MySQL, Nuxtjs, and Vuetify. This webapp featured with SSR and PWA to support offline mode.`,
     },
