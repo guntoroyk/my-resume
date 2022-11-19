@@ -24,13 +24,13 @@ const Portofolio = () => {
   const portfolios = [
     {
       image: new_sahabatkebaikan,
-      url: "https://baru.sahabatkebaikan.org/",
+      url: "https://sahabatkebaikan.org/",
       title: "New Sahabatkebaikan.org",
       desc: `This is the new version of the SahabatKebaikan.org that built with new style and using more cut-edge technologies. The technologies used on this web app is Nextjs (React for SSR), Nodejs with Express Framework, and Material UI for UI component.`,
     },
     {
       image: sahabatkebaikan,
-      url: "https://sahabatkebaikan.org/",
+      url: "https://lama.sahabatkebaikan.org/",
       title: "Sahabatkebaikan.org",
       desc: `SahabatKebaikan.org is an online donation platform that invites anyone to collaborate to build care, brotherhood and humanity in a professional and syar'i manner. Built using WordPress, WooCommerce, and other supporting plugins.`,
     },
