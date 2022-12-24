@@ -20,7 +20,9 @@ const Experience = () => {
           <p class="ml-auto">Aug 2021 - Aug 2022</p>
         </div>
       </div>
-      <h2 class="font-bold text-lg">PT Mandatech Mataram Mukti, Indonesia</h2>
+      <h2 class="font-bold text-lg mt-6">
+        PT Mandatech Mataram Mukti, Indonesia
+      </h2>
       <div class="mt-6 ml-6">
         <div class="md:flex">
           <h2 class="italic text-base font-semibold">Full Stack Developer</h2>
