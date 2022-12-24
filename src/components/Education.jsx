@@ -9,7 +9,9 @@ const Education = () => {
           <p class="ml-auto text-base">Jakarta, ID</p>
         </div>
         <div class="md:flex">
-          <h2 class="italic text-base">Full Stack Javascript Immersive</h2>
+          <h2 class="italic text-base">
+            Full Stack Javascript Immersive Bootcamp
+          </h2>
           <p class="ml-auto text-base">Jun - Oct 2019</p>
         </div>
       </div>
@@ -22,9 +24,8 @@ const Education = () => {
           <h2 class="italic text-base">
             Bachelor of Applied Science, Internet Engineering
           </h2>
-          <p class="ml-auto text-base">2018 - now</p>
+          <p class="ml-auto text-base">2018 - 2022</p>
         </div>
-        <h2 class="italic text-base flex items-start">On going</h2>
       </div>
       <div class="mt-10">
         <div class="md:flex">

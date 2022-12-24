@@ -6,27 +6,22 @@ const Skills = () => {
       <div>
         <span class="font-bold text-lg">Backend Stack</span>
         <span>
-          : NodeJS, ExpressJS, Fastify, PostgreSQL, MySQL, Sequelize, MongoDB,
-          Mongoose, GraphQL, Apollo Server.
+          : Go, NodeJS, Java, ExpressJS, Nestjs, Fastify, PostgreSQL, MySQL,
+          Sequelize, Prisma, MongoDB, Mongoose, GraphQL, Apollo Server.
         </span>
       </div>
       <div>
         <span class="font-bold text-lg">Frontend Stack</span>
         <span>
-          : jQuery, Vue JS, Vuex, React JS, React Native, Redux, Apollo Client,
-          NextJS, NuxtJS.
+          : JavaScript/Typescript, React.js, React Native, NextJS, NuxtJS.
         </span>
       </div>
       <div>
         <span class="font-bold text-lg">Cloud</span>
         <span>
-          : Amazon Web Service, Google Cloud Platform, Azure, Alibaba Cloud, and
-          Firebase.
+          : Amazon Web Service (AWS), Google Cloud Platform (GCP), Azure,
+          Alibaba Cloud, and Firebase.
         </span>
-      </div>
-      <div>
-        <span class="font-bold text-lg">Testing </span>
-        <span>: Mocha, Chai, and Jest. </span>
       </div>
       <div>
         <span class="font-bold text-lg">Other </span>

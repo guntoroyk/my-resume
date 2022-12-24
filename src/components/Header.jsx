@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const Header = () => {
   return (
@@ -8,7 +8,7 @@ const Header = () => {
       </div>
       <div className="ml-auto mt-6 md:text-right">
         <p>
-          Email :{' '}
+          Email :{" "}
           <a
             href="mailto:guntoro.gyk@gmail.com"
             className="hover:text-blue-500 text-blue-500"
@@ -16,8 +16,6 @@ const Header = () => {
             guntoro.gyk@gmail.com
           </a>
         </p>
-        <p>Mobile: </p>
-        <p>(+62) 85 713 470 777</p>
       </div>
     </div>
   );
