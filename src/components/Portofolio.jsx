@@ -86,65 +86,64 @@ const Portofolio = () => {
       image: firstpass,
       url: "https://firstpass-5d751.firebaseapp.com/",
       title: "FirstPass",
-      desc:
-        "A web app that can help you remember your passwords. Built with React JS, Redux, and Firebase Firestore.",
+      desc: "A web app that can help you remember your passwords. Built with React JS, Redux, and Firebase Firestore.",
     },
-    {
-      image: restoque,
-      url: "https://restoque.guntoroyk.com/",
-      title: "RestoQue",
-      desc:
-        "Simple web app built with React JS, Redux, and using data from Zomato API.",
-    },
-    {
-      image: movie_catalogue,
-      url: "https://expo.io/@guntoroyk/movie-catalogue",
-      title: "Movie Catalogue",
-      desc:
-        "A mobile app that allow you discover Movies and Tv Shows from TMDB Api. You can also mark your favorite Movies and/or Tv Shows. Built with React Native, Redux, Expo-cli and Firebase Firestore.",
-    },
-    {
-      image: entertainme,
-      url: "https://expo.io/@guntoroyk/entertainme",
-      title: "Entertainme",
-      desc:
-        "A mobile app that allow you save your favorite movies or tv shows on your own database. This app implement microservices so the movie and tv show server is separated. To access both servers,we created an Orchestrator that use GraphQL to deliver data to client. We also implement data caching with Redis on Orchestrator. On the client, instead using Redux for state management, we use Apollo Client.",
-    },
+    // {
+    //   image: restoque,
+    //   url: "https://restoque.guntoroyk.com/",
+    //   title: "RestoQue",
+    //   desc:
+    //     "Simple web app built with React JS, Redux, and using data from Zomato API.",
+    // },
+    // {
+    //   image: movie_catalogue,
+    //   url: "https://expo.io/@guntoroyk/movie-catalogue",
+    //   title: "Movie Catalogue",
+    //   desc:
+    //     "A mobile app that allow you discover Movies and Tv Shows from TMDB Api. You can also mark your favorite Movies and/or Tv Shows. Built with React Native, Redux, Expo-cli and Firebase Firestore.",
+    // },
+    // {
+    //   image: entertainme,
+    //   url: "https://expo.io/@guntoroyk/entertainme",
+    //   title: "Entertainme",
+    //   desc:
+    //     "A mobile app that allow you save your favorite movies or tv shows on your own database. This app implement microservices so the movie and tv show server is separated. To access both servers,we created an Orchestrator that use GraphQL to deliver data to client. We also implement data caching with Redis on Orchestrator. On the client, instead using Redux for state management, we use Apollo Client.",
+    // },
 
-    {
-      image: word_matching,
-      url: "https://expo.io/@guntoroyk/word-mathing",
-      title: "Word Matching",
-      desc:
-        "Test your memory with this game. Tap one picture then look for the same letter behind the other picture. Build with love, React Native, and Expo-cli.",
-    },
+    // {
+    //   image: word_matching,
+    //   url: "https://expo.io/@guntoroyk/word-mathing",
+    //   title: "Word Matching",
+    //   desc:
+    //     "Test your memory with this game. Tap one picture then look for the same letter behind the other picture. Build with love, React Native, and Expo-cli.",
+    // },
 
-    {
-      image: stackoverflow,
-      url: "https://toooverflow-client.herokuapp.com/",
-      title: "TooOverflow",
-      desc:
-        "A mini clone of Stack Overflow that allow you to create questions and give answer to other question. Built with Vue JS, Vuex, Express Js, and Mongoose.",
-    },
-    {
-      image: kanban,
-      url: "https://kanban-210eb.firebaseapp.com/",
-      title: "Realtime Draggable Kanban",
-      desc:
-        "You can manage your task with this app. This app was built with Vue JS, Vuex, and Firebase Firestore.",
-    },
-    {
-      image: miniwp,
-      url: "https://mini-wp-client.herokuapp.com/",
-      title: "Mini Wordpress",
-      desc: "A mini CMS built with Vue JS, Vuex, Express JS, and Mongoose.",
-    },
-    {
-      image: grabah,
-      url: "https://grabah-store-client.herokuapp.com/",
-      title: "Grabah Store",
-      desc: "An e-commerce built with Vue JS, Vuex, Express JS, and Mongoose.",
-    },
+    // {
+    //   image: stackoverflow,
+    //   url: "https://toooverflow-client.herokuapp.com/",
+    //   title: "TooOverflow",
+    //   desc:
+    //     "A mini clone of Stack Overflow that allow you to create questions and give answer to other question. Built with Vue JS, Vuex, Express Js, and Mongoose.",
+    // },
+    // {
+    //   image: kanban,
+    //   url: "https://kanban-210eb.firebaseapp.com/",
+    //   title: "Realtime Draggable Kanban",
+    //   desc:
+    //     "You can manage your task with this app. This app was built with Vue JS, Vuex, and Firebase Firestore.",
+    // },
+    // {
+    //   image: miniwp,
+    //   url: "https://mini-wp-client.herokuapp.com/",
+    //   title: "Mini Wordpress",
+    //   desc: "A mini CMS built with Vue JS, Vuex, Express JS, and Mongoose.",
+    // },
+    // {
+    //   image: grabah,
+    //   url: "https://grabah-store-client.herokuapp.com/",
+    //   title: "Grabah Store",
+    //   desc: "An e-commerce built with Vue JS, Vuex, Express JS, and Mongoose.",
+    // },
   ];
 
   return (
